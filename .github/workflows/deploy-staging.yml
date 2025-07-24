@@ -12,6 +12,7 @@ env:
   DOCKER_IMAGE_NAME: jafsilva-azure-ttt
   AZURE_WEBAPP_NAME: jafsilva-ttt-app
   ###############################################
+  
 
 jobs:
   build:
